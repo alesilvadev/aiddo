@@ -1,0 +1,35 @@
+#navbar ul {
+  padding: 25px 25px 0px 25px;
+  background-color: #8092e4;
+  color: #fff;
+}
+
+
+#navbar li {
+  cursor: pointer;
+  
+}
+
+#navbar a {
+  color: #fff !important;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 200;
+}
+
+#navbar .active-item {
+  background-color: #fff;
+  border-radius: 2;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+#navbar .active-a {
+  color: black !important;
+}
+
+#navbar .logo-navbar{
+    max-width: 100px;
+    margin-right: 120px;
+    margin-top: -10px;
+    margin-left: 50px;
+}
